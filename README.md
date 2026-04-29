@@ -44,7 +44,7 @@ CRM pipeline application — Kanban boards, deal flow UI, dark-mode admin panel.
 </td>
 <td width="50%" valign="top">
 
-[![CP2077 Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=RohitAkulwar380&repo=cp2077-savefile-info&theme=graywhite&hide_border=true&title_color=61DAFB&text_color=444444&bg_color=fafafa)](https://github.com/RohitAkulwar380/cp2077-savefile-info)
+[![CP2077 Visualizer][![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)](https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)
 **[CP2077 Save Visualizer](https://github.com/RohitAkulwar380/cp2077-savefile-info)**
 Dual-view narrative visualizer for Cyberpunk 2077 save files — chronicle mode + DBH-style flowchart. React · D3
 
@@ -53,8 +53,7 @@ Dual-view narrative visualizer for Cyberpunk 2077 save files — chronicle mode 
 <tr>
 <td width="50%" valign="top">
 
-[![Portfolio Site](https://github-readme-stats.vercel.app/api/pin/?username=RohitAkulwar380&repo=PortfolioRohitAkulwar&theme=graywhite&hide_border=true&title_color=61DAFB&text_color=444444&bg_color=fafafa)](https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)
-**[Portfolio Site](https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)**
+[![Portfolio Site][![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)](https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)
 Bauhaus/editorial personal site — bold type-as-architecture, GSAP animations, Lenis smooth scroll. React · GSAP
 
 </td>
