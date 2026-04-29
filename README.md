@@ -7,9 +7,9 @@
 
 <br/>RohitAkulwar380
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=firefox&logoColor=white)]([https://your-portfolio-url.com](https://portfolio-rohit-akulwar.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/rohit-akulwar-62448134b/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitakulwar380@gmail.com)
 
 </div>
 
@@ -25,7 +25,7 @@
 <!-- Example GIF embed (replace path): -->
 <!-- ![Portfolio Demo](./assets/portfolio-demo.gif) -->
 
-> 📽️ _Drop your portfolio screen recording here — either drag-and-drop an `.mp4` into the GitHub editor, or commit a `.gif` to `./assets/`_
+[![Portfolio Demo](./assets/thumbnail.png)]([https://your-video-url.com](https://www.youtube.com/watch?v=laPqOKl4AC4))
 
 </div>
 
