@@ -45,21 +45,21 @@ CRM pipeline application — Kanban boards, deal flow UI, dark-mode admin panel.
 
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/RohitAkulwar380/cp2077-savefile-info)](https://github.com/RohitAkulwar380/cp2077-savefile-info)
-**[CP2077 Save Visualizer](https://github.com/RohitAkulwar380/cp2077-visualizer)**
+**[CP2077 Save Visualizer](https://github.com/RohitAkulwar380/cp2077-savefile-info)**
 Dual-view narrative visualizer for Cyberpunk 2077 save files — chronicle mode + DBH-style flowchart. React · D3
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**[Portfolio Site](https://github.com/RohitAkulwar380/portfolio)**
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)](https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)
+**[Portfolio Site](https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)**
 Bauhaus/editorial personal site — bold type-as-architecture, GSAP animations, Lenis smooth scroll. React · GSAP
 
 </td>
 <td width="50%" valign="top">
-
-**[Titanic Chatbot](https://github.com/RohitAkulwar380/titanic-chatbot)**
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/RohitAkulwar380/level-editor-SDL3-osiris)](https://github.com/RohitAkulwar380/level-editor-SDL3-osiris)
+**[SDL3 Level Editor](https://github.com/RohitAkulwar380/level-editor-SDL3-osiris)**
 Dataset-grounded conversational AI — FastAPI · LangGraph · Streamlit. Deployed on Railway.
 
 </td>
