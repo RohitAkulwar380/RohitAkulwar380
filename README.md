@@ -5,7 +5,7 @@
 
 <sub>MCA · Pune, India · Currently @ Emergence Software</sub>
 
-<br/>
+<br/>RohitAkulwar380
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
@@ -47,13 +47,13 @@ Currently building at **Emergence Software** (PE-backed AI/B2B SaaS), working on
 <tr>
 <td width="50%" valign="top">
 
-**[emergence-web-app](https://github.com/yourusername/emergence-web-app)**
+**[emergence-web-app](https://github.com/RohitAkulwar380/emergence-web-app)**
 CRM pipeline application — Kanban boards, deal flow UI, dark-mode admin panel. React · TypeScript · Radix UI
 
 </td>
 <td width="50%" valign="top">
 
-**[CP2077 Save Visualizer](https://github.com/yourusername/cp2077-visualizer)**
+**[CP2077 Save Visualizer](https://github.com/RohitAkulwar380/cp2077-visualizer)**
 Dual-view narrative visualizer for Cyberpunk 2077 save files — chronicle mode + DBH-style flowchart. React · D3
 
 </td>
@@ -61,13 +61,13 @@ Dual-view narrative visualizer for Cyberpunk 2077 save files — chronicle mode 
 <tr>
 <td width="50%" valign="top">
 
-**[Portfolio Site](https://github.com/yourusername/portfolio)**
+**[Portfolio Site](https://github.com/RohitAkulwar380/portfolio)**
 Bauhaus/editorial personal site — bold type-as-architecture, GSAP animations, Lenis smooth scroll. React · GSAP
 
 </td>
 <td width="50%" valign="top">
 
-**[Titanic Chatbot](https://github.com/yourusername/titanic-chatbot)**
+**[Titanic Chatbot](https://github.com/RohitAkulwar380/titanic-chatbot)**
 Dataset-grounded conversational AI — FastAPI · LangGraph · Streamlit. Deployed on Railway.
 
 </td>
@@ -97,15 +97,15 @@ Dataset-grounded conversational AI — FastAPI · LangGraph · Streamlit. Deploy
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=fafafa" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RohitAkulwar380&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=fafafa" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=graywhite&hide_border=true&title_color=111111&text_color=444444&bg_color=fafafa&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitAkulwar380&layout=compact&theme=graywhite&hide_border=true&title_color=111111&text_color=444444&bg_color=fafafa&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=minimal&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=111111&fire=111111&currStreakLabel=111111)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RohitAkulwar380&theme=minimal&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=111111&fire=111111&currStreakLabel=111111)](https://git.io/streak-stats)
 
 </div>
 
@@ -115,9 +115,9 @@ Dataset-grounded conversational AI — FastAPI · LangGraph · Streamlit. Deploy
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
