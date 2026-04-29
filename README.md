@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=52&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=700&height=80&lines=ROHIT+SHINDE;FRONTEND+%2F+FULLSTACK;DESIGN-FORWARD+ENGINEER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=52&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=700&height=80&lines=ROHIT+Akulwar;FRONTEND+%2F+FULLSTACK;DESIGN-FORWARD+ENGINEER)](https://git.io/typing-svg)
 
 <sub>MCA · Pune, India · Currently @ Emergence Software</sub>
 
