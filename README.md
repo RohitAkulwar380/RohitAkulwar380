@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=52&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=700&height=80&lines=ROHIT+Akulwar;FRONTEND+%2F+FULLSTACK;DESIGN-FORWARD+ENGINEER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=52&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=80&lines=ROHIT+Akulwar;FRONTEND+%2F+FULLSTACK;DESIGN-FORWARD+ENGINEER)](https://git.io/typing-svg)
 
 <sub>MCA · Pune, India · Currently @ Emergence Software</sub>
 
@@ -96,9 +96,9 @@ Dataset-grounded conversational AI — FastAPI · LangGraph · Streamlit. Deploy
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RohitAkulwar380&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=fafafa" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RohitAkulwar380&show_icons=true&theme=graywhite&hide_border=true&title_color=61DAFB&text_color=444444&icon_color=61DAFB&bg_color=fafafa" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitAkulwar380&layout=compact&theme=graywhite&hide_border=true&title_color=111111&text_color=444444&bg_color=fafafa&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitAkulwar380&layout=compact&theme=graywhite&hide_border=true&title_color=61DAFB&text_color=444444&bg_color=fafafa&langs_count=6" />
 
 </div>
 
