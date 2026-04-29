@@ -38,24 +38,24 @@ Currently building at **Emergence Software** (PE-backed AI/B2B SaaS), working on
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/RohitAkulwar380/AILearningAssistant">
-          <img src="./assets/AiLearningAssistant.svg" alt="AI Learning Assistant Spec" width="100%" />
+          <img src="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/main/assets/AiLearningAssistant.svg" alt="AI Learning Assistant Spec" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/RohitAkulwar380/cp2077-savefile-info">
-          <img src="./assets/CP2077.svg" alt="CP2077 Spec" width="100%" />
+          <img src="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/main/assets/CP2077.svg" alt="CP2077 Spec" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/RohitAkulwar380/PortfolioRohitAkulwar">
-          <img src="./assets/Portfolio.svg" alt="Portfolio Spec" width="100%" />
+          <img src="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/main/assets/Portfolio.svg" alt="Portfolio Spec" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/RohitAkulwar380/level-editor-SDL3-osiris">
-          <img src="./assets/SDL3.svg" alt="SDL3 Editor Spec" width="100%" />
+          <img src="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/main/assets/SDL3.svg" alt="SDL3 Editor Spec" width="100%" />
         </a>
       </td>
     </tr>
