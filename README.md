@@ -44,8 +44,7 @@ CRM pipeline application — Kanban boards, deal flow UI, dark-mode admin panel.
 </td>
 <td width="50%" valign="top">
 
-[![CP2077 Visualizer][![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)](https://github.com/RohitAkulwar380/PortfolioRohitAkulwar)
-**[CP2077 Save Visualizer](https://github.com/RohitAkulwar380/cp2077-savefile-info)**
+[![CP2077 Visualizer][![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/RohitAkulwar380/cp2077-savefile-info)](https://github.com/RohitAkulwar380/cp2077-savefile-info)
 Dual-view narrative visualizer for Cyberpunk 2077 save files — chronicle mode + DBH-style flowchart. React · D3
 
 </td>
