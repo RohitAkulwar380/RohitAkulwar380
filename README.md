@@ -15,17 +15,8 @@
 
 ---
 
-<!-- DEMO / PORTFOLIO VIDEO -->
 <div align="center">
-
-<!-- Replace the src below with your portfolio screen recording (.mp4 drag-dropped into GitHub editor, or a GIF path) -->
-<!-- Example MP4 embed: -->
-<!-- <video src="https://user-images.githubusercontent.com/YOUR_ID/YOUR_FILE.mp4" autoplay loop muted width="100%"></video> -->
-
-<!-- Example GIF embed (replace path): -->
-<!-- ![Portfolio Demo](./assets/portfolio-demo.gif) -->
-
-[![Portfolio Demo](https://img.youtube.com/vi/laPqOKl4AC4/maxresdefault.jpg)](https://www.youtube.com/watch?v=laPqOKl4AC4)
+  <img src="./assets/portfolio-animation.svg" alt="RobCo Terminal Animation" width="100%" />
 </div>
 
 ---
