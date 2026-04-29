@@ -1,42 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="100%" height="auto">
-  <style>
-    .bg { fill: #0a0a0a; stroke: #333333; stroke-width: 3; }
-    .text-title { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 900; fill: #f4f4f0; text-transform: uppercase; letter-spacing: -1px; }
-    .text-mono { font-family: 'Courier New', Courier, monospace; font-size: 11px; fill: #8b949e; font-weight: bold; }
-    .text-desc { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; fill: #c9d1d9; line-height: 1.5; }
-    .tech-bg { fill: #f4f4f0; }
-    .text-tech { font-family: 'Courier New', Courier, monospace; font-size: 11px; font-weight: bold; fill: #0a0a0a; letter-spacing: -0.5px;}
-    .decor { stroke: #333333; stroke-width: 2; fill: none; }
-    .barcode { stroke: #8b949e; stroke-width: 2; stroke-linecap: square; }
+  <rect x="15" y="15" width="370" height="190" fill="#0a0a0a" stroke="#333333" stroke-width="3"/>
 
-    @media (prefers-color-scheme: light) {
-      .bg { fill: #f4f4f0; stroke: #111111; }
-      .text-title { fill: #111111; }
-      .text-desc { fill: #333333; }
-      .tech-bg { fill: #111111; }
-      .text-tech { fill: #f4f4f0; }
-      .decor { stroke: #111111; }
-    }
-  </style>
+  <path d="M 5,25 L 25,25 M 25,5 L 25,25" stroke="#333333" stroke-width="2" fill="none"/>
+  <path d="M 395,25 L 375,25 M 375,5 L 375,25" stroke="#333333" stroke-width="2" fill="none"/>
+  <path d="M 5,195 L 25,195 M 25,215 L 25,195" stroke="#333333" stroke-width="2" fill="none"/>
+  <path d="M 395,195 L 375,195 M 375,215 L 375,195" stroke="#333333" stroke-width="2" fill="none"/>
 
-  <rect class="bg" x="15" y="15" width="370" height="190" />
+  <text font-family="'Courier New', Courier, monospace" font-size="11" font-weight="bold" fill="#8b949e" x="35" y="45">SPEC // 001</text>
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="900" fill="#f4f4f0" x="35" y="75">AI LEARNING ASSISTANT</text>
 
-  <path class="decor" d="M 5,25 L 25,25 M 25,5 L 25,25" />
-  <path class="decor" d="M 395,25 L 375,25 M 375,5 L 375,25" />
-  <path class="decor" d="M 5,195 L 25,195 M 25,215 L 25,195" />
-  <path class="decor" d="M 395,195 L 375,195 M 375,215 L 375,195" />
-
-  <text class="text-mono" x="35" y="45">SPEC // 001</text>
-  <text class="text-title" x="35" y="75">AI LEARNING ASSISTANT</text>
-
-  <text class="text-desc" x="35" y="105">
-    <tspan x="35" dy="0">Context-aware educational engine.</tspan>
+  <text font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#c9d1d9">
+    <tspan x="35" y="105">Context-aware educational engine.</tspan>
     <tspan x="35" dy="18">Integrated LLM pipelines designed for</tspan>
     <tspan x="35" dy="18">adaptive knowledge retrieval.</tspan>
   </text>
 
-  <rect class="tech-bg" x="35" y="160" width="195" height="22" rx="2" />
-  <text class="text-tech" x="45" y="175">NEXT.JS / OPENAI / PYTHON</text>
+  <rect x="35" y="160" width="195" height="22" rx="2" fill="#f4f4f0"/>
+  <text font-family="'Courier New', Courier, monospace" font-size="11" font-weight="bold" fill="#0a0a0a" x="45" y="175">NEXT.JS / OPENAI / PYTHON</text>
 
-  <path class="barcode" d="M 320,158 v 24 M 324,158 v 24 M 328,158 v 24 M 335,158 v 24 M 338,158 v 24 M 344,158 v 24 M 348,158 v 24 M 355,158 v 24" />
+  <path d="M 320,158 v 24 M 324,158 v 24 M 328,158 v 24 M 335,158 v 24 M 338,158 v 24 M 344,158 v 24 M 348,158 v 24 M 355,158 v 24" stroke="#8b949e" stroke-width="2" stroke-linecap="square"/>
 </svg>
