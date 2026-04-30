@@ -5,8 +5,6 @@
 
 <sub>MCA · Pune, India · Currently @ Emergence Software</sub>
 
-<br/>RohitAkulwar380
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=firefox&logoColor=white)](https://portfolio-rohit-akulwar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-akulwar-62448134b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitakulwar380@gmail.com)
@@ -15,10 +13,8 @@
 
 ---
 
-<!-- HEADER ANIMATION / GIF -->
 <div align="center">
-  <!-- Paste your chosen GIF link from the Anmol-Baranwal repo here -->
-  <img src="PASTE_YOUR_COPIED_GIF_LINK_HERE" alt="Portfolio Showcase" width="100%" />
+  <img src="./assets/portfolio-animation.svg" alt="RobCo Terminal Animation" width="100%" />
 </div>
 
 ---
@@ -26,12 +22,9 @@
 <!-- ABOUT -->
 ### about
 
-> **0 TO 60 IN THE BROWSER.**
-> *Precision interfaces. Zero drag.*
+I'm a frontend & fullstack engineer who cares about the gap between design and code. I build interfaces that are precise, fast, and intentional — from CRM pipelines to creative web experiments.
 
-Engineered for the modern web. Built for scale. Bridging the gap between uncompromising design and high-octane code. You don't compromise on performance. Neither do we.
-
-Currently tuning architecture at **Emergence Software** (PE-backed AI/B2B SaaS), executing a React + TypeScript pipeline application where speed and stability are non-negotiable.
+Currently building at **Emergence Software** (PE-backed AI/B2B SaaS), working on a React + TypeScript pipeline application. On the side: portfolio tools, game-adjacent visualizers, and whatever catches my eye.
 
 ---
 
@@ -43,63 +36,65 @@ Currently tuning architecture at **Emergence Software** (PE-backed AI/B2B SaaS),
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/RohitAkulwar380/AILearningAssistant">
-          <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/AiLearningAssistant.svg?raw=true" alt="AI Learning Assistant Spec" width="100%" />
+          <img src="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/main/assets/AiLearningAssistant.svg" alt="AI Learning Assistant Spec" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/RohitAkulwar380/cp2077-savefile-info">
-          <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/CP2077.svg?raw=true" alt="CP2077 Spec" width="100%" />
+          <img src="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/main/assets/CP2077.svg" alt="CP2077 Spec" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/RohitAkulwar380/PortfolioRohitAkulwar">
-          <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/Portfolio.svg?raw=true" alt="Portfolio Spec" width="100%" />
+          <img src="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/main/assets/Portfolio.svg" alt="Portfolio Spec" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/RohitAkulwar380/level-editor-SDL3-osiris">
-          <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/SDL3.svg?raw=true" alt="SDL3 Editor Spec" width="100%" />
+          <img src="https://raw.githubusercontent.com/RohitAkulwar380/RohitAkulwar380/main/assets/SDL3.svg" alt="SDL3 Editor Spec" width="100%" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
----
-
 <!-- STACK -->
-### technical specifications
+### stack
 
 <div align="center">
-  <!-- Dynamic Kinetic Architecture Showcase -->
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/main/assets/gsap-pro.svg?raw=true" width="85" alt="GSAP" />
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/fastapi-pro.svg?raw=true" width="85" alt="FastAPI" />
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/postgres-pro.svg?raw=true" width="85" alt="PostgreSQL" />
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/redis-pro.svg?raw=true" width="85" alt="Redis" />
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/n8n-pro.svg?raw=true" width="85" alt="n8n" />
-  
-  <br><br>
-
-  <!-- Extended Specifications Baseline -->
-  <img src="https://img.shields.io/badge/REACT-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NEXT.JS-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FIGMA-111111?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <!-- Dynamic Kinetic Architecture Showcase (Updated for .svg.svg) -->
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/gsap-pro.svg.svg?raw=true" width="85" alt="GSAP" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/fastapi-pro.svg.svg?raw=true" width="85" alt="FastAPI" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/postgres-pro.svg.svg?raw=true" width="85" alt="PostgreSQL" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/redis-pro.svg.svg?raw=true" width="85" alt="Redis" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/n8n-pro.svg.svg?raw=true" width="85" alt="n8n" />
 </div>
+
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
 <!-- STATS SECTION -->
-### telemetry
+### by the numbers
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RohitAkulwar380&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=444444&icon_color=111111&bg_color=fafafa" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RohitAkulwar380&show_icons=true&theme=graywhite&hide_border=true&title_color=61DAFB&text_color=444444&icon_color=61DAFB&bg_color=fafafa" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitAkulwar380&layout=compact&theme=graywhite&hide_border=true&title_color=111111&text_color=444444&bg_color=fafafa&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitAkulwar380&layout=compact&theme=graywhite&hide_border=true&title_color=61DAFB&text_color=444444&bg_color=fafafa&langs_count=6" />
 
 </div>
 
