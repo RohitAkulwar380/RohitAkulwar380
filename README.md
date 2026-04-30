@@ -74,7 +74,7 @@ Currently tuning architecture at **Emergence Software** (PE-backed AI/B2B SaaS),
 
 <div align="center">
   <!-- Dynamic Kinetic Architecture Showcase -->
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/gsap-pro.svg?raw=true" width="85" alt="GSAP" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/main/assets/gsap-pro.svg?raw=true" width="85" alt="GSAP" />
   <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/fastapi-pro.svg?raw=true" width="85" alt="FastAPI" />
   <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/postgres-pro.svg?raw=true" width="85" alt="PostgreSQL" />
   <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/redis-pro.svg?raw=true" width="85" alt="Redis" />
