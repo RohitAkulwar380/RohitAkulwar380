@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <style>
+    .layer { opacity: 0; transform-origin: center; animation: stackUp 5s infinite cubic-bezier(0.175, 0.885, 0.32, 1.275); }
+    .l1 { animation-delay: 0s; }
+    .l2 { animation-delay: 0.15s; }
+    .l3 { animation-delay: 0.3s; }
+    
+    @keyframes stackUp {
+      0%, 5% { opacity: 0; transform: translateY(-40px) scale(0.8); }
+      15%, 85% { opacity: 1; transform: translateY(0) scale(1); }
+      90%, 100% { opacity: 0; transform: translateY(20px) scale(0.9); }
+    }
+    
+    .top { fill: #DC382D; } .side-light { fill: #B82C22; } .side-dark { fill: #8F221A; }
+  </style>
+  
+  <g class="layer l1">
+    <path d="M 15 65 L 50 80 L 85 65 L 85 80 L 50 95 L 15 80 Z" class="side-dark" />
+    <path d="M 15 65 L 50 80 L 50 95 L 15 80 Z" class="side-light" />
+  </g>
+  <g class="layer l2">
+    <path d="M 15 45 L 50 60 L 85 45 L 85 60 L 50 75 L 15 60 Z" class="side-dark" />
+    <path d="M 15 45 L 50 60 L 50 75 L 15 60 Z" class="side-light" />
+  </g>
+  <g class="layer l3">
+    <path d="M 50 10 L 85 25 L 50 40 L 15 25 Z" class="top" />
+    <path d="M 85 25 L 50 40 L 50 55 L 85 40 Z" class="side-dark" />
+    <path d="M 15 25 L 50 40 L 50 55 L 15 40 Z" class="side-light" />
+  </g>
+</svg>
