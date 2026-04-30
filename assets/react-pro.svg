@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <style>
+    .orbit { fill: none; stroke: #61DAFB; stroke-width: 4; stroke-dasharray: 200; stroke-dashoffset: 200; animation: drawOrbit 5s infinite cubic-bezier(0.4, 0, 0.2, 1); }
+    .o1 { animation-delay: 0s; } .o2 { animation-delay: 0.15s; } .o3 { animation-delay: 0.3s; }
+    .core { fill: #61DAFB; opacity: 0; transform-origin: 50px 50px; animation: popCore 5s infinite cubic-bezier(0.175, 0.885, 0.32, 1.275); }
+    @keyframes drawOrbit { 0%, 5% { stroke-dashoffset: 200; opacity: 1; } 30%, 85% { stroke-dashoffset: 0; opacity: 1; } 90%, 100% { opacity: 0; } }
+    @keyframes popCore { 0%, 20% { transform: scale(0); opacity: 0; } 30%, 85% { transform: scale(1); opacity: 1; } 90%, 100% { transform: scale(0); opacity: 0; } }
+  </style>
+  <g transform="translate(50, 50)">
+    <ellipse cx="0" cy="0" rx="40" ry="15" transform="rotate(0)" class="orbit o1" />
+    <ellipse cx="0" cy="0" rx="40" ry="15" transform="rotate(60)" class="orbit o2" />
+    <ellipse cx="0" cy="0" rx="40" ry="15" transform="rotate(120)" class="orbit o3" />
+  </g>
+  <circle cx="50" cy="50" r="8" class="core" />
+</svg>
