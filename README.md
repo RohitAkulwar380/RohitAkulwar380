@@ -66,15 +66,15 @@ Currently building at **Emergence Software** (PE-backed AI/B2B SaaS), working on
 
 <div align="center">
   <!-- Dynamic Kinetic Architecture Showcase -->
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/react-pro.svg.svg?raw=true" width="85" alt="React" />
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/ts-pro.svg.svg?raw=true" width="85" alt="TypeScript" />
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/next-pro.svg.svg?raw=true" width="85" alt="Next.js" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/react-pro.svg?raw=true" width="85" alt="React" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/ts-pro.svg?raw=true" width="85" alt="TypeScript" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/next-pro.svg?raw=true" width="85" alt="Next.js" />
   <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/gsap-pro.svg.svg?raw=true" width="85" alt="GSAP" />
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/figma-pro.svg.svg?raw=true" width="85" alt="Figma" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/figma-pro.svg?raw=true" width="85" alt="Figma" />
   
   <br><br>
   
-  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/python-pro.svg.svg?raw=true" width="85" alt="Python" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/python-pro.svg?raw=true" width="85" alt="Python" />
   <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/fastapi-pro.svg.svg?raw=true" width="85" alt="FastAPI" />
   <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/postgres-pro.svg.svg?raw=true" width="85" alt="PostgreSQL" />
   <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/redis-pro.svg.svg?raw=true" width="85" alt="Redis" />
