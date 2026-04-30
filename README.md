@@ -14,8 +14,9 @@
 
 ---
 
+<!-- HEADER ANIMATION / GIF -->
 <div align="center">
-  <img src="./assets/portfolio-animation.svg" alt="RobCo Terminal Animation" width="100%" />
+  <img src="https://github.com/RohitAkulwar380/RohitAkulwar380/blob/main/assets/ezgif-3287938d88b9c37c.gif?raw=true" alt="Lofi Engineering Workspace" width="100%" />
 </div>
 
 ---
