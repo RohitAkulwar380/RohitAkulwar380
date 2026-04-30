@@ -5,7 +5,6 @@
 
 <sub>MCA · Pune, India · Currently @ Emergence Software</sub>
 
-<br/>RohitAkulwar380
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=firefox&logoColor=white)](https://portfolio-rohit-akulwar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-akulwar-62448134b/)
